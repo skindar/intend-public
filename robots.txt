@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://skindar.github.io/intend-public/sitemap.xml
+Sitemap: https://intendmobile.com/sitemap.xml
